@@ -82,9 +82,6 @@
 				F28DE1851AE5F1C400BACC2B /* AppDelegate.swift */,
 				F28DE18A1AE5F1C400BACC2B /* ViewController.swift */,
 				F28DE18C1AE5F1C400BACC2B /* Main.storyboard */,
-				F28DE18F1AE5F1C400BACC2B /* Images.xcassets */,
-				F28DE1911AE5F1C400BACC2B /* LaunchScreen.xib */,
-				F28DE1871AE5F1C400BACC2B /* HitList.xcdatamodeld */,
 				F28DE1831AE5F1C400BACC2B /* Supporting Files */,
 			);
 			path = HitList;
@@ -93,6 +90,9 @@
 		F28DE1831AE5F1C400BACC2B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F28DE1871AE5F1C400BACC2B /* HitList.xcdatamodeld */,
+				F28DE18F1AE5F1C400BACC2B /* Images.xcassets */,
+				F28DE1911AE5F1C400BACC2B /* LaunchScreen.xib */,
 				F28DE1841AE5F1C400BACC2B /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -409,6 +409,7 @@
 				F28DE1A41AE5F1C400BACC2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F28DE1A51AE5F1C400BACC2B /* Build configuration list for PBXNativeTarget "HitListTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				F28DE1A71AE5F1C400BACC2B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
